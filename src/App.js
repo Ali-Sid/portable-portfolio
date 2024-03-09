@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Nav from './components/NavBar';
 import Header from './components/Hero';
+import TechStack from './components/TechStack';
 import About from './components/About';
 import Experience from './components/Experience';
 import Projects from './components/Projects';
@@ -19,6 +20,7 @@ function App() {
     <>
       <Nav color={color} />
       <Header color={color} />
+      <TechStack color={color}/>
       <About color={color} />
       <Experience color={color} />
       <Projects color={color} />
