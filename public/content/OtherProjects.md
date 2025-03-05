@@ -1,16 +1,3 @@
-## Weather App
-Seamlessly track real-time weather conditions, forecasts, and trends with a modern React and Material-UI app. Stay prepared for whatever the skies bring.
-- Tags: Category 1
-- Badges:
-  - Web [blue]
-  - React.js [blue]
-  - CSS [blue]
-  - Material UI [blue]
-  - Vite [yellow]
-- Buttons:
-  - Demo [https://alis-weather-app-react.netlify.app/]
-  - Github [https://github.com/Ali-Sid/weather-app-react]
-
 ## Expense Tracker
 Empower your financial journey with an intuitive expense tracker app, built on React and Material-UI. Effortlessly manage finances, track spending, and make informed decisions in one convenient place.
 - Tags: Category 1
@@ -71,3 +58,16 @@ A kid-friendly virtual learning platform, Newtonize, is built using HTML, CSS, B
 - Buttons:
   - Demo [https://mellifluous-clafoutis-f85b47.netlify.app/]
   - Github [https://github.com/Ali-Sid/newtonize]
+
+## Weather App
+Seamlessly track real-time weather conditions, forecasts, and trends with a modern React and Material-UI app. Stay prepared for whatever the skies bring.
+- Tags: Category 1
+- Badges:
+  - Web [blue]
+  - React.js [blue]
+  - CSS [blue]
+  - Material UI [blue]
+  - Vite [yellow]
+- Buttons:
+  - Demo [https://alis-weather-app-react.netlify.app/]
+  - Github [https://github.com/Ali-Sid/weather-app-react]

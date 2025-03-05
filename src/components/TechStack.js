@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Grid, GridItem, Box, Text, Center } from "@chakra-ui/react";
 
 const techStack = [
-  "HTML", "CSS", "JavaScript", "React.js", "Express.js", "MySQL", "SQLite", "Firebase", "Dexie.js", "Vite", "Node.js", "Redux Toolkit"
+  "JavaScript", "React.js", "Express.js", "MySQL", "SQLite", "SQL Server", "Firebase", "Node.js", "Zustand", "Php", "Laravel", "Livewire"
 ];
 
 const TechStack = () => {
