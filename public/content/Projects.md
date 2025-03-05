@@ -65,3 +65,61 @@ The client panel serves as your user's central hub. Here, they can access your s
 - Buttons:
   - Demo [https://client.bizzowl.com/]
   - Github [https://github.com/Ali-Sid/bizowl-client]
+
+## Admin Portal
+The admin panel grants full control over the web portal. Here, administrators can manage user accounts, monitor system health, analyze data, configure settings, and potentially manage partner and client relationships and content. It's the command center for keeping our platform running smoothly.
+- ![600x200](https://res.cloudinary.com/dr1pmtefx/image/upload/f_auto,q_auto/Screenshot_2024-04-15_052420_axotto)
+- Tags: Category 3
+- Badges:
+  - Web [blue]
+  - React.js [blue]
+  - CSS [blue]
+  - Chakra UI [blue]
+  - Material UI [blue]
+  - Firebase [blue]
+  - Redux [blue]
+- Buttons:
+  - Demo [https://admin.bizzowl.com/]
+  - Github [https://github.com/Ali-Sid/bizowl-admin]
+ 
+## Partner Portal
+The partner panel caters to businesses you've partnered with. It provides partners a space to manage their partnership details, access relevant tools and resources, track performance, and potentially interact with assigned clients. It fosters a collaborative environment within your platform.
+- ![600x200](https://res.cloudinary.com/dr1pmtefx/image/upload/f_auto,q_auto/Screenshot_2024-04-15_052404_gspjg0)
+- Tags: Category 3
+- Badges:
+  - Web [blue]
+  - React.js [blue]
+  - CSS [blue]
+  - Chakra UI [blue]
+  - Material UI [blue]
+  - Firebase [blue]
+  - Redux [blue]
+- Buttons:
+  - Demo [https://partner.bizzowl.com/]
+  - Github [https://github.com/Ali-Sid/bizowl-partner]
+
+## Ecommerce App
+Seamlessly blending React and Material-UI, the app offers intuitive navigation, dynamic product displays, and secure transactions, ensuring customers enjoy a smooth journey from browsing to purchase.
+- ![600x200](https://res.cloudinary.com/dr1pmtefx/image/upload/f_auto,q_auto/ywlo4q7gdgw4sd4v9srr)
+- Tags: Category 3
+- Badges:
+  - Web [blue]
+  - React.js [blue]
+  - CSS [blue]
+  - Material UI [blue]
+- Buttons:
+  - Demo [https://react-ecom-app-ali.netlify.app/]
+  - Github [https://github.com/Ali-Sid/react-ecom-app]
+
+## Car/hr
+Seamlessly browse, book, and manage rentals with an intuitive user interface. Experience the convenience of real-time availability, secure bookings, and streamlined vehicle pick-up, enhancing the way you travel.
+- ![600x200](https://res.cloudinary.com/dr1pmtefx/image/upload/f_auto,q_auto/b56qewsmbsmsbglv1wmg)
+- Tags: Category 3
+- Badges:
+  - Web [blue]
+  - React.js [blue]
+  - CSS [blue]
+  - Material UI [blue]
+- Buttons:
+  - Demo [https://carperhour.netlify.app/]
+  - Github [https://github.com/Ali-Sid/car-rental-app-react]
