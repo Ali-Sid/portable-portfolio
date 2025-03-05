@@ -34,30 +34,34 @@ The Task Management App is a full-stack application designed to manage tasks eff
   - Demo [https://task-management-app-beige.vercel.app/]
   - Github [https://github.com/Ali-Sid/task-management-app]
 
-## NewsHead
-Dive into a world of curated stories, delivered in a user-friendly interface. Explore breaking news, in-depth features, and personalized updates, all designed to keep you connected to the stories that matter.
-- ![600x200](https://res.cloudinary.com/dr1pmtefx/image/upload/f_auto,q_auto/ebwkeljmi0xmmynl6xei)
+## TnT Logistics Management and Tracking App
+This web application streamlines logistics and manufacturing management for a Riyadh, Saudi Arabia factory. By tracking product movement via tags attached during manufacturing and labeling, the app offers real-time visibility from production to dispatch.
+- ![600x200](https://res.cloudinary.com/dr1pmtefx/image/upload/f_auto,q_auto/z6ysec3gwevzev6hnd0z)
 - Tags: Category 3
 - Badges:
   - Web [blue]
   - React.js [blue]
+  - Node.js [blue]
   - CSS [blue]
+  - Chakra UI [blue]
   - Material UI [blue]
-  - Vite [yellow]
+  - SQL Server Express [blue]
 - Buttons:
-  - Demo [https://newsapp-reactjs.netlify.app/]
-  - Github [https://github.com/Ali-Sid/newsapp-react]
+  - Demo [https://tntlogistic.netlify.app/]
+  - Github [https://github.com/Ali-Sid/TnT-logistics-new]
 
-## Food Bites
-Indulge in a delightful dining experience with Food Bites, powered by React and Material-UI, is your user-friendly food ordering app. Explore culinary delights and place orders seamlessly with our curated interface.
-- ![600x200](https://res.cloudinary.com/dr1pmtefx/image/upload/v1693778007/Screenshot_2023-09-04_032234_lz9wr9.png)
+## Client Portal
+The client panel serves as your user's central hub. Here, they can access your service's core functionalities, manage their accounts, and perform tasks specific to your platform. This includes requesting services, selecting partners for those services, communicating directly with admins and partners, and tracking the progress of their projects.
+- ![600x200](https://res.cloudinary.com/dr1pmtefx/image/upload/f_auto,q_auto/Screenshot_2024-04-15_050010_adipq3)
 - Tags: Category 3
 - Badges:
   - Web [blue]
   - React.js [blue]
   - CSS [blue]
+  - Chakra UI [blue]
   - Material UI [blue]
-  - Vite [yellow]
+  - Firebase [blue]
+  - Redux [blue]
 - Buttons:
-  - Demo [https://food-bites.netlify.app/]
-  - Github [https://github.com/Ali-Sid/foodbites-react]
+  - Demo [https://client.bizzowl.com/]
+  - Github [https://github.com/Ali-Sid/bizowl-client]
