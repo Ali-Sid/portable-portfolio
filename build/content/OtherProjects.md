@@ -1,3 +1,32 @@
+## Bizowl
+I improved the website by refining form validations, styling components, and designing elements in Figma. I also led the development of an AI business name generator, streamlining user experience and potentially increasing engagement.
+- Tags: Category 1
+- Badges:
+  - Web [blue]
+  - React.js [blue]
+  - CSS [blue]
+  - Material UI [blue]
+  - Chakra UI [blue]
+  - Google AI [blue]
+  - Node.js [blue]
+  - Express.js [blue]
+- Buttons:
+  - Demo [https://www.bizzowl.com/company-name-generator]
+  - Github [https://github.com/Ali-Sid]
+
+## SaaSedUp
+I designed and developed a website for SaaSedUp, a software development agency. This website serves as a platform to showcase their expertise and attract potential clients, potentially utilizing modern technologies and design principles to create a compelling user experience.
+- Tags: Category 1
+- Badges:
+  - Web [blue]
+  - HTML [blue]
+  - CSS [blue]
+  - Bootstrap [blue]
+  - JavaScript [blue]
+- Buttons:
+  - Demo [https://saasedup.com]
+  - Github [https://github.com/Ali-Sid]
+
 ## Weather App
 Seamlessly track real-time weather conditions, forecasts, and trends with a modern React and Material-UI app. Stay prepared for whatever the skies bring.
 - Tags: Category 1

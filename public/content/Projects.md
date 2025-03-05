@@ -1,18 +1,21 @@
-## Ecommerce App
- Seamlessly blending React and Material-UI, the app offers intuitive navigation, dynamic product displays, and secure transactions, ensuring customers enjoy a smooth journey from browsing to purchase.
-- ![600x200](https://res.cloudinary.com/dr1pmtefx/image/upload/f_auto,q_auto/ywlo4q7gdgw4sd4v9srr)
+## MyCaly.io
+ MyCaly is an appointment and events booking application built to manage events and appointments for clients efficiently. This application is built using Laravel, and it is currently live for public beta access. Note: The updated changes isn't live yet as it's currently under review but it'll be live soon.
+- ![600x200](https://res.cloudinary.com/dr1pmtefx/image/upload/f_auto,q_auto/p6aunuijd1dnjisduqem)
 - Tags: Category 1
 - Badges:
-  - Web [blue]
-  - React.js [blue]
-  - CSS [blue]
-  - Material UI [blue]
-  - Vite [yellow]
+  - Laravel [blue]
+  - Livewire [blue]
+  - MySQL [blue]
+  - Eloquent ORM [blue]
+  - Tailwind CSS [blue]
+  - Ajax [blue]
+  - JavaScript [blue]
+  - JQuery [blue]
+  - V-Empower [red]
 - Buttons:
   - Demo [https://react-ecom-app-ali.netlify.app/]
-  - Github [https://github.com/Ali-Sid/react-ecom-app]
 
-## Car/hr
+## Task Management App
 Seamlessly browse, book, and manage rentals with an intuitive user interface. Experience the convenience of real-time availability, secure bookings, and streamlined vehicle pick-up, enhancing the way you travel.
 - ![600x200](https://res.cloudinary.com/dr1pmtefx/image/upload/f_auto,q_auto/b56qewsmbsmsbglv1wmg)
 - Tags: Category 2
