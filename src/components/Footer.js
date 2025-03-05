@@ -18,7 +18,7 @@ export default function Footer() {
         py={4}
         align="center"
       >
-        <Text>© 2023 Ali Siddiqui. All rights reserved</Text>
+        <Text>© new Date().getFullYear() Ali Siddiqui. All rights reserved</Text>
       </Container>
     </Box>
   );
