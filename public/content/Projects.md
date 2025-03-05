@@ -17,7 +17,7 @@
 
 ## Task Management App
 Seamlessly browse, book, and manage rentals with an intuitive user interface. Experience the convenience of real-time availability, secure bookings, and streamlined vehicle pick-up, enhancing the way you travel.
-- ![600x200](https://res.cloudinary.com/dr1pmtefx/image/upload/f_auto,q_auto/b56qewsmbsmsbglv1wmg)
+- ![600x200](https://res.cloudinary.com/dr1pmtefx/image/upload/f_auto,q_auto/Screenshot_2024-08-31_201932_pkp38q)
 - Tags: Category 2
 - Badges:
   - Web [blue]
