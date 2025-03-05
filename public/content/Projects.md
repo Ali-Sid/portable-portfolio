@@ -16,18 +16,23 @@
   - Demo [https://react-ecom-app-ali.netlify.app/]
 
 ## Task Management App
-Seamlessly browse, book, and manage rentals with an intuitive user interface. Experience the convenience of real-time availability, secure bookings, and streamlined vehicle pick-up, enhancing the way you travel.
+The Task Management App is a full-stack application designed to manage tasks efficiently. It includes a backend API for task management and a frontend interface for user interaction. The application supports creating, reading, updating, and deleting tasks, and it is fully deployed for public access.
 - ![600x200](https://res.cloudinary.com/dr1pmtefx/image/upload/f_auto,q_auto/Screenshot_2024-08-31_201932_pkp38q)
 - Tags: Category 2
 - Badges:
   - Web [blue]
   - React.js [blue]
-  - CSS [blue]
+  - SQLite [blue]
   - Material UI [blue]
-  - Vite [yellow]
+  - Python [blue]
+  - FastAPI [blue]
+  - Uvicorn [blue]
+  - SQLAlchemy [blue]
+  - Alembic [blue]
+  - Pydantic [blue]
 - Buttons:
-  - Demo [https://carperhour.netlify.app/]
-  - Github [https://github.com/Ali-Sid/car-rental-app-react]
+  - Demo [https://task-management-app-beige.vercel.app/]
+  - Github [https://github.com/Ali-Sid/task-management-app]
 
 ## NewsHead
 Dive into a world of curated stories, delivered in a user-friendly interface. Explore breaking news, in-depth features, and personalized updates, all designed to keep you connected to the stories that matter.
