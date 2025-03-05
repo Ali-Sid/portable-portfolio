@@ -13,7 +13,7 @@
   - JQuery [blue]
   - V-Empower [red]
 - Buttons:
-  - Demo [https://react-ecom-app-ali.netlify.app/]
+  - Demo [https://mycaly.io/]
 
 ## Task Management App
 The Task Management App is a full-stack application designed to manage tasks efficiently. It includes a backend API for task management and a frontend interface for user interaction. The application supports creating, reading, updating, and deleting tasks, and it is fully deployed for public access.
