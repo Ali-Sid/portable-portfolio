@@ -19,9 +19,9 @@
 - Badges:
   - Full-Stack Developer [blue]
 - List Items:
-  - In my current role at Bizowl, I'm responsible for building dynamic portals catering to our admin, client, and partner needs.
+  - At Bizowl, I was responsible for building dynamic portals catering to our admin, client, and partner needs as well as enhancing the user experience of the main website.
   - These portals aim to streamline and automate critical business processes, enhancing overall efficiency and user experience.
-  - My work involves full-stack development, from designing user interfaces to implementing robust back-end functionalities.
+  - My work involves full-stack development, from designing user interfaces to implementing robust back-end functionalities to deploying it on serverless service.
   - Collaborating closely with cross-functional teams, I ensure that our solutions meet the evolving requirements of our stakeholders.
   - This role presents exciting challenges and opportunities for continuous learning, aligning perfectly with my career goals in web development.
 
@@ -32,7 +32,7 @@
 - Badges:
   - Software Developer Trainee [pink]
 - List Items:
-  - Building enterprise-level business applications, including ERPs and CRMs.
+  - Built Logistics management and tracking application for a client.
   - Collaborating with cross-functional teams to develop and implement robust solutions.
   - Customizing and extending existing software to meet specific organizational needs.
   - Troubleshooting issues, debugging code, and optimizing performance.
